@@ -23,4 +23,4 @@ $ npm start
 
 ````
 ### Deployment 
-The app has been deployed on [Render.com](https://dashboard.render.com/web/srv-cjk85bdk5scs73b6ga50)
+The app has been deployed on [Render.com](https://c-project-backend.onrender.com)
